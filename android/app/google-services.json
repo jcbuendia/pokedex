@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767629194726",
+    "project_id": "octopy-app-architecture",
+    "storage_bucket": "octopy-app-architecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767629194726:android:2a12269622309295df5227",
+        "android_client_info": {
+          "package_name": "com.nestlegaris.proximity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767629194726-d27k0ubr19mpkekg1dl6etd7bngapfmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFWlgYcB9e6-2vhjXrVG_NiQSwGjO2AQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767629194726-d27k0ubr19mpkekg1dl6etd7bngapfmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

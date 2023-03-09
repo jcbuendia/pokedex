@@ -1,0 +1,7 @@
+export const id = 'modal';
+
+export const HANDLE_OPEN_MODAL_SAGA = `${id}/HANDLE_OPEN_MODAL_SAGA`;
+export const HANDLE_CLOSE_MODAL_SAGA = `${id}/HANDLE_CLOSE_MODAL_SAGA`;
+
+export const HANDLE_OPEN_MODAL_REDUCER = `${id}/HANDLE_OPEN_MODAL_REDUCER`;
+export const HANDLE_CLOSE_MODAL_REDUCER = `${id}/HANDLE_CLOSE_MODAL_REDUCER`;

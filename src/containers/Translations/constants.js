@@ -1,0 +1,5 @@
+export const id = 'language';
+
+export const HANDLE_CHANGE_LANGUAGE_SAGA = `${id}/HANDLE_CHANGE_LANGUAGE_SAGA`;
+
+export const HANDLE_CHANGE_LANGUAGE_REDUCER = `${id}/HANDLE_CHANGE_LANGUAGE_REDUCER`;
